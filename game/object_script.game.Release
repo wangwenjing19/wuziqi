@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\indow.o
+./release\peoplevscomputer.o
+./release\board.o
+./release\ai.o
+./release\aboard.o
+./release\scorewindow.o
+./release\qrc_image.o
+./release\moc_mainwindow.o
+./release\moc_indow.o
+./release\moc_board.o
+./release\moc_aboard.o
+./release\moc_scorewindow.o
+);
